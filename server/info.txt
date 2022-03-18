@@ -1,0 +1,7 @@
+ID: 905509984144592957
+
+TOKEN: OTA1NTA5OTg0MTQ0NTkyOTU3.YYLH4w.ADNDh1j8PGPUynu27eY8bM03PwE
+
+LINK ADD BOT: https://discord.com/oauth2/authorize?client_id=905509984144592957&scope=bot&permissions=8
+
+LINK SETTING BOT: https://discord.com/developers/applications/905509984144592957/information
